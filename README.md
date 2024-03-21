@@ -3,8 +3,6 @@
 # KELAS A
 Disusun Untuk Memenuhi Tugas Mata Kuliah Prak. Pemrograman Berbasis Web <br />
 <br />
-![alt text](?raw=true)
-<br />
 
 Disusun oleh:<br />
 Arsya Yan Duribta<br />
@@ -20,10 +18,8 @@ Fakultas Teknik Universitas Pancasila <br />
 2023/2024<br />
 <br />
 <br />
-<br />
 
-### Link Repository Github: 
-<br />
+### Link Repository Github: https://github.com/Arsyayd11/pbw
 <br />
 
 ### Tugas 1
@@ -147,7 +143,7 @@ func hitungKelilingPersegiPanjang(panjang int, lebar int) int {
     return 2 * (panjang + lebar)
 }
 ```
-Jawab:
+Jawab: <br />
 Source code di atas adalah sebuah program golang sederhana untuk menghitung luas dan keliling persegi panjang berdasarkan panjang dan lebar yang telah ditetapkan. 
 1. Package dan Import: 
 Program dimulai dengan mendefinisikan package main.
@@ -191,7 +187,7 @@ keliling int) {
     return
 }
 ```
-Jawab:
+Jawab: <br />
 Source code di atas merupakan program yang sama dengan program pada Tugas 03, namun menggunakan pengembalian nilai ganda dari sebuah fungsi. Berikut adalah penjelasan dari setiap bagian dari kode tersebut:
 1. Package dan Import: 
 Program dimulai dengan mendefinisikan package main.
@@ -209,18 +205,17 @@ Karena dalam deklarasi fungsi sudah menyebutkan bahwa akan mengembalikan luas da
 <br />
 
 ### Tugas 5
-Jelaskan perbedaan antara Tugas 03 dan Tugas 04!
-Jawab:
-Perbedaan antara Tugas 03 dan Tugas 04 terletak pada cara pengembalian nilai dari fungsi hitungLuasKelilingPersegiPanjang():
+Jelaskan perbedaan antara Tugas 03 dan Tugas 04! <br />
+Jawab: <br />
+Perbedaan antara Tugas 03 dan Tugas 04 terletak pada cara pengembalian nilai dari fungsi hitungLuasKelilingPersegiPanjang(): <br />
 Tugas 03:
-Pada Tugas 03, fungsi hitungLuasPersegiPanjang() dan hitungKelilingPersegiPanjang() masing-masing mengembalikan satu nilai, yaitu luas dan keliling persegi panjang.
-Di dalam fungsi main(), setelah memanggil kedua fungsi tersebut, hasilnya disimpan dalam variabel luas dan keliling secara terpisah.
+- Pada Tugas 03, fungsi hitungLuasPersegiPanjang() dan hitungKelilingPersegiPanjang() masing-masing mengembalikan satu nilai, yaitu luas dan keliling persegi panjang. <br />
+- Di dalam fungsi main(), setelah memanggil kedua fungsi tersebut, hasilnya disimpan dalam variabel luas dan keliling secara terpisah. <br />
 Tugas 04:
-Pada Tugas 04, fungsi hitungLuasKelilingPersegiPanjang() mengembalikan dua nilai sekaligus, yaitu luas dan keliling persegi panjang.
-Di dalam fungsi main(), setelah memanggil fungsi tersebut, kedua hasil perhitungan (luas dan keliling) disimpan dalam satu baris kode menggunakan deklarasi luas, keliling := hitungLuasKelilingPersegiPanjang(panjang, lebar).
-Oleh karena itu, perbedaan utama antara Tugas 03 dan Tugas 04 adalah bagaimana nilai fungsi dikembalikan. Tugas 03 menggunakan pengembalian nilai tunggal untuk perhitungan luas dan keliling, sedangkan Tugas 04 menggunakan pengembalian nilai ganda untuk kedua perhitungan sekaligus.
-<br />
+- Pada Tugas 04, fungsi hitungLuasKelilingPersegiPanjang() mengembalikan dua nilai sekaligus, yaitu luas dan keliling persegi panjang.
+Di dalam fungsi main(), setelah memanggil fungsi tersebut, kedua hasil perhitungan (luas dan keliling) disimpan dalam satu baris kode menggunakan deklarasi luas, keliling := hitungLuasKelilingPersegiPanjang(panjang, lebar). <br />
+- Oleh karena itu, perbedaan utama antara Tugas 03 dan Tugas 04 adalah bagaimana nilai fungsi dikembalikan. Tugas 03 menggunakan pengembalian nilai tunggal untuk perhitungan luas dan keliling, sedangkan Tugas 04 menggunakan pengembalian nilai ganda untuk kedua perhitungan sekaligus. <br />
 <br />
 
-### Link Repository Github:
+### Link Repository Github: https://github.com/Arsyayd11/pbw
 <br />
