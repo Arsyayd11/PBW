@@ -214,8 +214,9 @@ Tugas 03:
 
 Tugas 04:
 - Pada Tugas 04, fungsi hitungLuasKelilingPersegiPanjang() mengembalikan dua nilai sekaligus, yaitu luas dan keliling persegi panjang.
-Di dalam fungsi main(), setelah memanggil fungsi tersebut, kedua hasil perhitungan (luas dan keliling) disimpan dalam satu baris kode menggunakan deklarasi luas, keliling := hitungLuasKelilingPersegiPanjang(panjang, lebar). <br />
-- Oleh karena itu, perbedaan utama antara Tugas 03 dan Tugas 04 adalah bagaimana nilai fungsi dikembalikan. Tugas 03 menggunakan pengembalian nilai tunggal untuk perhitungan luas dan keliling, sedangkan Tugas 04 menggunakan pengembalian nilai ganda untuk kedua perhitungan sekaligus. <br />
+- Di dalam fungsi main(), setelah memanggil fungsi tersebut, kedua hasil perhitungan (luas dan keliling) disimpan dalam satu baris kode menggunakan deklarasi luas, keliling := hitungLuasKelilingPersegiPanjang(panjang, lebar). <br />
+
+Oleh karena itu, perbedaan utama antara Tugas 03 dan Tugas 04 adalah bagaimana nilai fungsi dikembalikan. Tugas 03 menggunakan pengembalian nilai tunggal untuk perhitungan luas dan keliling, sedangkan Tugas 04 menggunakan pengembalian nilai ganda untuk kedua perhitungan sekaligus. <br />
 <br />
 
 ### Link Repository Github: https://github.com/Arsyayd11/pbw
