@@ -210,7 +210,7 @@ Jawab: <br />
 Perbedaan antara Tugas 03 dan Tugas 04 terletak pada cara pengembalian nilai dari fungsi hitungLuasKelilingPersegiPanjang(): <br />
 Tugas 03:
 - Pada Tugas 03, fungsi hitungLuasPersegiPanjang() dan hitungKelilingPersegiPanjang() masing-masing mengembalikan satu nilai, yaitu luas dan keliling persegi panjang. <br />
-- Di dalam fungsi main(), setelah memanggil kedua fungsi tersebut, hasilnya disimpan dalam variabel luas dan keliling secara terpisah. <br />
+- Di dalam fungsi main(), setelah memanggil kedua fungsi tersebut, hasilnya disimpan dalam variabel luas dan keliling secara terpisah. <br /> <br />
 Tugas 04:
 - Pada Tugas 04, fungsi hitungLuasKelilingPersegiPanjang() mengembalikan dua nilai sekaligus, yaitu luas dan keliling persegi panjang.
 Di dalam fungsi main(), setelah memanggil fungsi tersebut, kedua hasil perhitungan (luas dan keliling) disimpan dalam satu baris kode menggunakan deklarasi luas, keliling := hitungLuasKelilingPersegiPanjang(panjang, lebar). <br />
